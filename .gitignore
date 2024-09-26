@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Basic Calculator/*
+!/Basic Calculator/task/
+/Basic Calculator/task/*
+!/Basic Calculator/task/src
+!/Basic Calculator/task/build.gradle
